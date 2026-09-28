@@ -268,7 +268,7 @@ The final comparison uses 684 observations from the 2024–2026 test period.
 
 | Model | VaR Violations | Violation Rate | Mean Quantile Loss |
 |---|---:|---:|---:|
-| GARCH-t | 8 / 684 | 1.17% | **0.0002966** |
+| GARCH-t | 7 / 684 | 1.02% | **0.0002966** |
 | Random Forest | 4 / 684 | 0.58% | 0.0002989 |
 | Gaussian Neural Diffusion | 2 / 684 | 0.29% | 0.0003198 |
 | Student-t Neural Diffusion | 1 / 684 | 0.15% | 0.0004049 |
