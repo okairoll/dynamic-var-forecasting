@@ -355,15 +355,4 @@ dynamic-var-forecasting/
 │   └── Combined_dataset.xlsx
 │
 ├── notebooks/
-│   └── dynamic_var_forecasting.ipynb
-│
-├── src/
-│   ├── risk_metrics.py
-│   ├── backtesting.py
-│   └── neural_models.py
-│
-└── figures/
-    ├── normal_qq.png
-    ├── student_t_qq.png
-    ├── garch_var.png
-    └── cumulative_quantile_loss.png
+    └── dynamic_var_forecasting.ipynb
